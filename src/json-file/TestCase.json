@@ -1,0 +1,36 @@
+{
+  "Testcases":[
+    {
+      "TC_ID":"1",
+      "TC_NAME":"HUL1_1",
+      "TC_STATUS":"SUCCESS",
+      "TC_STTIMESTAMP":"",
+      "TC_ENDTIMESTAMP":"",
+      "TC_DETAILFILENM":"TestCaseDetails.json"
+    },
+    {
+      "TC_ID":"2",
+      "TC_NAME":"HUL1_2",
+      "TC_STATUS":"SUCCESS",
+      "TC_STTIMESTAMP": "",
+      "TC_ENDTIMESTAMP": "",
+      "TC_DETAILFILENM":"TestCaseDetails.json"
+    },
+    {
+      "TC_ID":"3",
+      "TC_NAME":"HUL1_3",
+      "TC_STATUS":"FAILURE",
+      "TC_STTIMESTAMP":"",
+      "TC_ENDTIMESTAMP":"",
+      "TC_DETAILFILENM":"TestCaseDetails.json"
+    },
+    {
+      "TC_ID":"4",
+      "TC_NAME":"HUL1_4",
+      "TC_STATUS":"SUCCESS",
+      "TC_STTIMESTAMP":"",
+      "TC_ENDTIMESTAMP":"",
+      "TC_DETAILFILENM":"TestCaseDetails.json"
+    }
+  ]
+}
