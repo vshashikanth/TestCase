@@ -1,0 +1,40 @@
+{
+        "TestCaseDetails":
+        {
+                "TCID":"1",
+                "TCNM":"HUL1",
+                "STEPS":[
+                        {
+                                "STEPNO":1,
+                                "STEPTITLE":"Voltage 5.5 regulator",
+                                "TIMER_FLG":"Y",
+                                "TIMERDURATION":"",
+                                "STEP_STATUS":"SUCCESS"
+                        },
+                        {
+                                "STEPNO":2,
+                                "STEPTITLE":"Voltage 5.5 regulator",
+                                "TIMER_FLG":"N",
+                                "TIMERDURATION":"",
+                                "STEP_STATUS":"SUCCESS"
+                        },
+                        {
+                                "STEPNO":3,
+                                "STEPTITLE":"Voltage 5.5 regulator",
+                                "TIMER_FLG":"N",
+                                "TIMERDURATION":"",
+                                "STEP_STATUS":"FAIL"
+                        },
+                        {
+                                "STEPNO":4,
+                                "STEPTITLE":"Voltage 5.5 regulator",
+                                "TIMER_FLG":"Y",
+                                "TIMERDURATION":"",
+                                "STEP_STATUS":"SUCCESS"
+                        }],
+                "TC_STATUS":"FAILURE",
+                "TC_STTIMESTAMP":"",
+                "TC_ENDTIMESTAMP":"",
+                "TC_DETAILFILENM":"TestCaseDetails.json"
+        }
+}
